@@ -1,0 +1,47 @@
+[04-Apr-2019 15:05:51 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mytourna/public_html/rajarai.xyz/common.php on line 2
+[04-Apr-2019 15:05:51 Asia/Kolkata] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/mytourna/public_html/rajarai.xyz/common.php on line 2
+[08-May-2019 05:23:15 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1130): Host 'pro.zpowerdns.com' is not allowed to connect to this MariaDB server in /home/mytourna/2019/rajarai.xyz/store/common.php on line 2
+[08-May-2019 05:23:15 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/mytourna/2019/rajarai.xyz/store/common.php on line 2
+[08-May-2019 12:29:02 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1130): Host 'pro.zpowerdns.com' is not allowed to connect to this MariaDB server in /home/mytourna/2019/rajarai.xyz/store/common.php on line 2
+[08-May-2019 12:29:02 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/mytourna/2019/rajarai.xyz/store/common.php on line 2
+[08-May-2019 21:57:02 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1130): Host 'pro.zpowerdns.com' is not allowed to connect to this MariaDB server in /home/mytourna/2019/rajarai.xyz/store/common.php on line 2
+[08-May-2019 21:57:02 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/mytourna/2019/rajarai.xyz/store/common.php on line 2
+[08-May-2019 22:25:25 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1130): Host 'pro.zpowerdns.com' is not allowed to connect to this MariaDB server in /home/mytourna/2019/rajarai.xyz/store/common.php on line 2
+[08-May-2019 22:25:25 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/mytourna/2019/rajarai.xyz/store/common.php on line 2
+[09-May-2019 08:59:42 America/New_York] PHP Notice:  Undefined index: email_error in /home/mytourna/2019/rajarai.xyz/store/login.php on line 35
+[09-May-2019 08:59:42 America/New_York] PHP Notice:  Undefined index: wrong in /home/mytourna/2019/rajarai.xyz/store/login.php on line 41
+[09-May-2019 09:47:01 America/New_York] PHP Notice:  Undefined index: pass_wrong in /home/mytourna/2019/rajarai.xyz/store/settings.php on line 29
+[09-May-2019 09:47:01 America/New_York] PHP Notice:  Undefined index: wrong in /home/mytourna/2019/rajarai.xyz/store/settings.php on line 37
+[09-May-2019 17:40:21 America/New_York] PHP Notice:  Undefined index: email_error in /home/mytourna/2019/rajarai.xyz/store/signup.php on line 35
+[09-May-2019 17:40:21 America/New_York] PHP Notice:  Undefined index: password_error in /home/mytourna/2019/rajarai.xyz/store/signup.php on line 40
+[10-May-2019 00:34:17 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1130): Host 'pro.zpowerdns.com' is not allowed to connect to this MariaDB server in /home/mytourna/2019/rajarai.xyz/store/common.php on line 2
+[10-May-2019 00:34:17 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/mytourna/2019/rajarai.xyz/store/common.php on line 2
+[10-May-2019 01:03:31 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1130): Host 'pro.zpowerdns.com' is not allowed to connect to this MariaDB server in /home/mytourna/2019/rajarai.xyz/store/common.php on line 2
+[10-May-2019 01:03:31 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/mytourna/2019/rajarai.xyz/store/common.php on line 2
+[10-May-2019 02:54:41 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1130): Host 'pro.zpowerdns.com' is not allowed to connect to this MariaDB server in /home/mytourna/2019/rajarai.xyz/store/common.php on line 2
+[10-May-2019 02:54:41 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/mytourna/2019/rajarai.xyz/store/common.php on line 2
+[10-May-2019 12:27:01 America/New_York] PHP Notice:  Undefined index: e-mail in /home/mytourna/2019/rajarai.xyz/store/signup_script.php on line 2
+[10-May-2019 15:57:44 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1130): Host 'pro.zpowerdns.com' is not allowed to connect to this MariaDB server in /home/mytourna/2019/rajarai.xyz/store/common.php on line 2
+[10-May-2019 15:57:44 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/mytourna/2019/rajarai.xyz/store/common.php on line 2
+[10-May-2019 18:01:28 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1130): Host 'pro.zpowerdns.com' is not allowed to connect to this MariaDB server in /home/mytourna/2019/rajarai.xyz/store/common.php on line 2
+[10-May-2019 18:01:28 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/mytourna/2019/rajarai.xyz/store/common.php on line 2
+[16-May-2019 00:14:15 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1130): Host 'pro.zpowerdns.com' is not allowed to connect to this MariaDB server in /home/mytourna/2019/rajarai.xyz/store/common.php on line 2
+[16-May-2019 00:14:15 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/mytourna/2019/rajarai.xyz/store/common.php on line 2
+[16-May-2019 00:15:44 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1130): Host 'pro.zpowerdns.com' is not allowed to connect to this MariaDB server in /home/mytourna/2019/rajarai.xyz/store/common.php on line 2
+[16-May-2019 00:15:44 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/mytourna/2019/rajarai.xyz/store/common.php on line 2
+[16-May-2019 00:16:14 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1130): Host 'pro.zpowerdns.com' is not allowed to connect to this MariaDB server in /home/mytourna/2019/rajarai.xyz/store/common.php on line 2
+[16-May-2019 00:16:14 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/mytourna/2019/rajarai.xyz/store/common.php on line 2
+[18-May-2019 06:05:46 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1130): Host 'pro.zpowerdns.com' is not allowed to connect to this MariaDB server in /home/mytourna/2019/rajarai.xyz/store/common.php on line 2
+[18-May-2019 06:05:46 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/mytourna/2019/rajarai.xyz/store/common.php on line 2
+[18-May-2019 06:05:53 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1130): Host 'pro.zpowerdns.com' is not allowed to connect to this MariaDB server in /home/mytourna/2019/rajarai.xyz/store/common.php on line 2
+[18-May-2019 06:05:53 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/mytourna/2019/rajarai.xyz/store/common.php on line 2
+[19-May-2019 10:59:12 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1130): Host 'pro.zpowerdns.com' is not allowed to connect to this MariaDB server in /home/mytourna/2019/rajarai.xyz/store/common.php on line 2
+[19-May-2019 10:59:12 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/mytourna/2019/rajarai.xyz/store/common.php on line 2
+[31-May-2019 07:20:02 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1130): Host 'pro.zpowerdns.com' is not allowed to connect to this MariaDB server in /home/mytourna/2019/rajarai.xyz/store/common.php on line 2
+[31-May-2019 07:20:02 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/mytourna/2019/rajarai.xyz/store/common.php on line 2
+[03-Jun-2019 11:08:50 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1130): Host 'pro.zpowerdns.com' is not allowed to connect to this MariaDB server in /home/mytourna/2019/rajarai.xyz/store/common.php on line 2
+[03-Jun-2019 11:08:50 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/mytourna/2019/rajarai.xyz/store/common.php on line 2
+[04-Jun-2019 12:03:08 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1130): Host 'pro.zpowerdns.com' is not allowed to connect to this MariaDB server in /home/mytourna/2019/rajarai.xyz/store/common.php on line 2
+[04-Jun-2019 12:03:08 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/mytourna/2019/rajarai.xyz/store/common.php on line 2
+[04-Jun-2019 12:03:16 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1130): Host 'pro.zpowerdns.com' is not allowed to connect to this MariaDB server in /home/mytourna/2019/rajarai.xyz/store/common.php on line 2
+[04-Jun-2019 12:03:16 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/mytourna/2019/rajarai.xyz/store/common.php on line 2
